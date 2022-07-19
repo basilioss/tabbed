@@ -1,6 +1,6 @@
 # tabbed - generic tabbed interface
 
-tabbed is a simple tabbed X window container.
+[tabbed](https://tools.suckless.org/tabbed/) is a simple tabbed X window container.
 
 ![image](https://user-images.githubusercontent.com/71596800/179753219-c8dbf556-555f-4568-a1cc-0d74f852fee0.png)
 
@@ -21,7 +21,7 @@ sudo make install
 - Open surf with tabbed: `tabbed -c surf -e`.
 - Tabs will appear if more than one window is opened.
 - Open new tab with `ctrl + shift + enter`.
-- Check `config.def.h for more keybindings.
+- Check `config.def.h` for more keybindings.
 
 ## Credits
 
