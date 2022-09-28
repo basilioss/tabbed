@@ -22,7 +22,3 @@ sudo make install
 - Tabs will appear if more than one window is opened.
 - Open new tab with `ctrl + shift + enter`.
 - Check `config.def.h` for more keybindings.
-
-## Credits
-
-- Thanks [6gk](https://github.com/6gk/tabbed) for centered title patch

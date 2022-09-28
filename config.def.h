@@ -3,11 +3,11 @@
 /* appearance */
 static const char font[]        = "JetBrainsMono Nerd Font:size=12";
 /* colors */
-static char *normbgcolor = "#476072";
+static char *normbgcolor = "#2B3D4F";
 static char *normfgcolor = "#ffffff";
 static char *selbgcolor = "#17212b";
 static char *selfgcolor = "#ffffff";
-static char *urgbgcolor = "#476072";
+static char *urgbgcolor = "#2B3D4F";
 static char *urgfgcolor = "#cc0000";
 static const char before[]      = "";
 static const char after[]       = "";
